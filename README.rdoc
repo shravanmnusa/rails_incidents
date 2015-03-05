@@ -1,0 +1,13 @@
+Incident Management
+
+Incident Management portal developed using Ruby on Rails.
+Features:
+create/edit/delete incidents
+sort by fields in incidents.
+
+Technologies used:
+RoR
+HTML5
+Bootstrap
+Rspec
+SQLite3
